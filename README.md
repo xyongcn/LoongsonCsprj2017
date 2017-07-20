@@ -5,7 +5,8 @@ Computer System Project for Loongson FPGA Board in 2017
 
 1. 实现一个可运行龙芯FPGA实验板上的MIPS32S CPU（也可以直接使用龙芯的开源MIPS32 CPU），并支持串口、键盘、鼠标、VGA等简单外设；
 2. 移植教学操作系统ucore到MIPS32S CPU上；
-3. 在ubuntu 16.04上实现一个交叉编译器，可以把符合decaf或C0的应用程序编译成MIPS32S上的应用程序，并在ucore上运行；
+3. 移植Linux操作系统到MIPS32S CPU上；
+3. 在ubuntu 16.04上实现一个交叉编译器，可以把符合decaf或C0的应用程序编译成MIPS32S上的应用程序，并在ucore或Linux上运行；
 4. 进行其他可能的功能扩展。如，支持网络和调试工具等。
 
 ## 文档
@@ -21,6 +22,8 @@ Computer System Project for Loongson FPGA Board in 2017
 ### MIPS32S CPU及外设的参考实现
 
 ### 龙芯FPGA实验板上的ucore参考实现
+
+### 龙芯FPGA实验板上的Linux参考实现
 
 ### decaf交叉编译器参考实现
 
