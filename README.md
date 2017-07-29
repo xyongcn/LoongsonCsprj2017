@@ -1,7 +1,7 @@
 # LoongsonCsprj2017
 Computer System Project for Loongson FPGA Board in 2017
 
-本仓库维护了一个运行在龙芯FPGA实验板上的计算机系统综合实验参考实现，内容包括所有的实验参考代码和文档。这个实现的目标如下。
+本仓库维护了一个计算机系统综合实验参考实现，内容包括所有的实验参考代码和文档。这个实现的目标如下。
 
 1. 实现一个可运行龙芯FPGA实验板上的MIPS32S CPU（也可以直接使用龙芯的开源MIPS32 CPU），并支持串口、键盘、鼠标、VGA等简单外设；
 2. 移植教学操作系统ucore到MIPS32S CPU上；
@@ -24,11 +24,13 @@ Computer System Project for Loongson FPGA Board in 2017
 ### MIPS32S CPU及外设的参考实现
 
 [Jia Kai的MIPS32S CPU实现](https://git.net9.org/armcpu-devteam/armcpu)
+[Jia Kai实验报告](/doc/jiakai_report)
 
 ### 龙芯FPGA实验板上的ucore参考实现
 
 [ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（`for-ls232-soc_up`分支已在龙芯开源CPU上验证）
 [ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
+* [硬件需求分析](/doc/ucore_requirements.pdf)
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
