@@ -17,17 +17,17 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯FPGA实验板的硬件信息
 
-![赛事器材介绍](http://www.nscscc.org/a/shiyanshebei/2017/0301/6.html)
+[赛事器材介绍](http://www.nscscc.org/a/shiyanshebei/2017/0301/6.html)
 
 ### 龙芯的开源MIPS32 CPU信息
 
 ### MIPS32S CPU及外设的参考实现
 
-![Jia Kai的实现](https://git.net9.org/armcpu-devteam/armcpu)
+[Jia Kai的MIPS32S CPU实现](https://git.net9.org/armcpu-devteam/armcpu)
 
 ### 龙芯FPGA实验板上的ucore参考实现
 
-![ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（for-ls232-soc_up分支已在龙芯开源CPU上验证）
+[ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（for-ls232-soc_up分支已在龙芯开源CPU上验证）
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
