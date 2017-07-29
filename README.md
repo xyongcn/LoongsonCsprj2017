@@ -27,8 +27,8 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯FPGA实验板上的ucore参考实现
 
-[ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（`for-ls232-soc_up`分支已在龙芯开源CPU上验证）
-[ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
+* [ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（`for-ls232-soc_up`分支已在龙芯开源CPU上验证）
+* [ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
