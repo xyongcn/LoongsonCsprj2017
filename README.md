@@ -24,7 +24,7 @@ Computer System Project for Loongson FPGA Board in 2017
 ### MIPS32S CPU及外设的参考实现
 
 * [Jia Kai的MIPS32S CPU实现](https://git.net9.org/armcpu-devteam/armcpu)
-* [Jia Kai实验报告](/doc/jiakai_report)
+* [Jia Kai实验报告](/doc/jiakai_report.pdf)
 
 ### 龙芯FPGA实验板上的ucore参考实现
 
