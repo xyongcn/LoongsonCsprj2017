@@ -17,9 +17,11 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯FPGA实验板的硬件信息
 
-[赛事器材介绍](http://www.nscscc.org/a/shiyanshebei/2017/0301/6.html)
+* [大赛实验箱介绍](/doc/大赛实验箱介绍_v1.00.pdf)
 
 ### 龙芯的开源MIPS32 CPU信息
+
+* [soc_lite和soc_up介绍](/doc/soc_lite和soc_up介绍_v0.01.pdf)
 
 ### MIPS32S CPU及外设的参考实现
 
