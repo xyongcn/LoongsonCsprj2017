@@ -26,21 +26,30 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### MIPS32S CPU及外设的参考实现
 
-* [Jia Kai的MIPS32S CPU实现](https://git.net9.org/armcpu-devteam/armcpu)
-* [Jia Kai实验报告](/doc/jiakai_report.pdf)
+* [NaiveMIPS SoC源代码 / brd-NSCSCC分支](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/tree/brd-NSCSCC)
+* [NaiveMIPS软硬件设计文档](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/raw/brd-NSCSCC/documentation/2017nscscc.pdf)：包含硬件实现及系统软件说明
 
 ### 龙芯FPGA实验板上的ucore参考实现
 
-* [ucore-thumips](https://github.com/z4yx/ucore-thumips/tree/for-ls232-soc_up)（`for-ls232-soc_up`分支已在龙芯开源CPU上验证）
+* [ucore-thumips / for-NSCSCC分支](https://github.com/z4yx/ucore-thumips/tree/for-NSCSCC)（与NaiveMIPS SoC搭配使用）
 * [ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
 * [硬件需求分析](/doc/ucore_requirements.pdf)
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
+* [Linux 4.6](https://git.net9.org/shanker/linux-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
+
+### 龙芯FPGA实验板上的U-Boot参考实现
+
+* [U-Boot](https://git.net9.org/zhangyx13/u-boot-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
+
 ### decaf交叉编译器参考实现
+
+* [decaf-linux](https://git.net9.org/zhangyx13/decaf-linux)
 
 ### C0交叉编译器参考实现
 
 ### 与实验相关的其他问题和解决建议
 
+* 实验箱PS/2接口线序错误，需要制作转接线修正
 
