@@ -25,7 +25,7 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯的开源MIPS32 CPU信息
 
-* [soc_lite和soc_up介绍](/doc/soc_lite和soc_up介绍_v0.01.pdf)
+* [soc_lite和soc_up介绍](/doc/soc_lite和soc_up介绍_v0.01.pdf)：这里介绍的是龙芯开源的两个经剪裁的MIPS32 CPU型号，soc_lite不带TLB，soc_up带TLB；
 * [soc_demo代码](http://os.cs.tsinghua.edu.cn/oscourse/project/LoongsonCsprj2017?action=AttachFile&do=view&target=soc_demo_v0.02.tar.xz)
 
 ### MIPS32S CPU及外设的参考实现
