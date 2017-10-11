@@ -21,6 +21,7 @@ Computer System Project for Loongson FPGA Board in 2017
 ### 龙芯FPGA实验板的硬件信息
 
 * [大赛实验箱介绍](/doc/大赛实验箱介绍_v1.00.pdf)
+* [龙芯FPGA开发板原理图](http://os.cs.tsinghua.edu.cn/oscourse/project/LoongsonCsprj2017#A20171011-FPGA-A7-PRJ-UDB_V1.1.pdf)
 
 ### 龙芯的开源MIPS32 CPU信息
 
