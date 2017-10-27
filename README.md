@@ -45,7 +45,7 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯FPGA实验板上的U-Boot参考实现
 
-* [U-Boot](https://git.net9.org/zhangyx13/u-boot-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
+* [U-Boot](https://github.com/z4yx/u-boot-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
 
 ### decaf交叉编译器参考实现
 
