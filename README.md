@@ -35,8 +35,7 @@ Computer System Project for Loongson FPGA Board in 2017
 * [Test cases for MIPS CPU implementation](https://github.com/oscourse-tsinghua/cpu-testcase/blob/master/README.md)
 ### 龙芯FPGA实验板上的ucore参考实现
 
-* [ucore-thumips / for-NSCSCC分支](https://github.com/z4yx/ucore-thumips/tree/for-NSCSCC)（与NaiveMIPS SoC搭配使用）
- * [ucore-thumips在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL)
+* [ucore-thumips / for-NSCSCC分支](https://github.com/z4yx/ucore-thumips/tree/for-NSCSCC):([ucore-thumips在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL))与NaiveMIPS SoC搭配使用
 * [ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
 * [硬件需求分析](/doc/ucore_requirements.pdf)
 
@@ -49,8 +48,7 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### decaf交叉编译器参考实现
 
-* [decaf-linux](https://git.net9.org/zhangyx13/decaf-linux)
- * [decaf-linux在github上的备份](https://github.com/z4yx/decaf-linux)
+* [decaf-linux](https://git.net9.org/zhangyx13/decaf-linux)([decaf-linux在github上的备份](https://github.com/z4yx/decaf-linux))
 
 ### C0交叉编译器参考实现
 
