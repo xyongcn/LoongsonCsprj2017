@@ -42,8 +42,7 @@ Computer System Project for Loongson FPGA Board in 2017
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
-* [Linux 4.6](https://git.net9.org/shanker/linux-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
- * [Linux 4.6在github上的备份](https://github.com/z4yx/linux-kernel)
+* [Linux 4.6](https://git.net9.org/shanker/linux-naivemips) ：([Linux 4.6在github上的备份](https://github.com/z4yx/linux-kernel))配置方法参见`NaiveMIPS软硬件设计文档`
 ### 龙芯FPGA实验板上的U-Boot参考实现
 
 * [U-Boot](https://github.com/z4yx/u-boot-naivemips) ：配置方法参见`NaiveMIPS软硬件设计文档`
