@@ -31,7 +31,7 @@ Computer System Project for Loongson FPGA Board in 2017
 ### MIPS32S CPU及外设的参考实现
 
 * [NaiveMIPS SoC源代码 / brd-NSCSCC分支](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/tree/brd-NSCSCC): ([NaiveMIPS SoC源代码在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL))
-* [NaiveMIPS软硬件设计文档](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/raw/brd-NSCSCC/documentation/2017nscscc.pdf)：包含硬件实现及系统软件说明
+ * [NaiveMIPS软硬件设计文档](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/raw/brd-NSCSCC/documentation/2017nscscc.pdf)：([github上的副本](https://github.com/z4yx/NaiveMIPS-HDL/blob/brd-NSCSCC/documentation/2017nscscc.pdf))包含硬件实现及系统软件说明
 * [Test cases for MIPS CPU implementation](https://github.com/oscourse-tsinghua/cpu-testcase/blob/master/README.md)
 ### 龙芯FPGA实验板上的ucore参考实现
 
