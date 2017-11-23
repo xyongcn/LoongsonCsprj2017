@@ -27,7 +27,8 @@ Computer System Project for Loongson FPGA Board in 2017
 
 * [soc_lite和soc_up介绍](/doc/soc_lite和soc_up介绍_v0.01.pdf)：这里介绍的是龙芯开源的两个经剪裁的MIPS32 CPU型号，soc_lite不带TLB，soc_up带TLB；
 * [soc_demo代码](http://os.cs.tsinghua.edu.cn/oscourse/project/LoongsonCsprj2017?action=AttachFile&do=view&target=soc_demo_v0.02.tar.xz)
-  * [龙芯高校开源计划](http://www.loongson.cn/lup/)：需要获取soc_lite和soc_up代码的同学可以院系为单位向[龙芯高校开源计划](http://www.loongson.cn/lup/)申请使用授权。
+
+  * [龙芯高校开源计划](http://www.loongson.cn/lup/)：需要获取soc_lite和soc_up代码的同学可以院系为单位向[龙芯高校开源计划](http://www.loongson.cn/lup/)申请使用授权。
 ### MIPS32S CPU及外设的参考实现
 
 * [NaiveMIPS SoC源代码 / brd-NSCSCC分支](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/tree/brd-NSCSCC): ([NaiveMIPS SoC源代码在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL))
