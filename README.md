@@ -4,6 +4,7 @@ Computer System Project for Loongson FPGA Board in 2017
 本仓库维护了一个计算机系统综合实验参考实现，内容包括所有的实验参考代码和文档。这个实现的目标如下。
 
 1. 实现一个可运行龙芯FPGA实验板上的MIPS32S CPU（也可以直接使用龙芯的开源MIPS32 CPU），并支持串口、键盘、鼠标、VGA等简单外设；
+1. 移植32位监控程序到MIPS32S CPU上；
 2. 移植教学操作系统ucore到MIPS32S CPU上；
 3. 移植Linux操作系统到MIPS32S CPU上；
 3. 在ubuntu 16.04上实现一个交叉编译器，可以把符合decaf或C0的应用程序编译成MIPS32S上的应用程序，并在ucore或Linux上运行；
@@ -34,6 +35,11 @@ Computer System Project for Loongson FPGA Board in 2017
 * [NaiveMIPS SoC源代码 / brd-NSCSCC分支](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/tree/brd-NSCSCC): ([NaiveMIPS SoC源代码在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL))
   * [NaiveMIPS软硬件设计文档](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/raw/brd-NSCSCC/documentation/2017nscscc.pdf)：([github上的副本](https://github.com/z4yx/NaiveMIPS-HDL/blob/brd-NSCSCC/documentation/2017nscscc.pdf))包含硬件实现及系统软件说明
 * [Test cases for MIPS CPU implementation](https://github.com/oscourse-tsinghua/cpu-testcase/blob/master/README.md)
+
+### 龙芯FPGA实验板上的32位监控程序参考实现
+
+* [supervisor-mips32](https://github.com/z4yx/supervisor-mips32)
+
 ### 龙芯FPGA实验板上的ucore参考实现
 
 * [ucore-thumips / for-NSCSCC分支](https://github.com/z4yx/ucore-thumips/tree/for-NSCSCC):与NaiveMIPS SoC搭配使用
