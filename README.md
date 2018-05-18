@@ -44,7 +44,8 @@ Computer System Project for Loongson FPGA Board in 2017
 
 * [ucore-thumips / for-NSCSCC分支](https://github.com/z4yx/ucore-thumips/tree/for-NSCSCC):与NaiveMIPS SoC搭配使用
 * [ucore对于指令集及特权资源的说明](/doc/ucore_thumips.pdf)
-* [硬件需求分析](/doc/ucore_requirements.pdf)
+
+  * [硬件需求分析](/doc/ucore_requirements.pdf)
 
 ### 龙芯FPGA实验板上的Linux参考实现
 
