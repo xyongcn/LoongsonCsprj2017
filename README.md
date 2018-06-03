@@ -31,7 +31,7 @@ Computer System Project for Loongson FPGA Board in 2017
 
   * [龙芯高校开源计划](http://www.loongson.cn/lup/)：需要获取soc_lite和soc_up代码的同学可以院系为单位向[龙芯高校开源计划](http://www.loongson.cn/lup/)申请使用授权。
 ### MIPS32S CPU及外设的参考实现
-
+* [Build the SoC for NSCSCC (Linux Only)](https://github.com/z4yx/NaiveMIPS-HDL/blob/brd-NSCSCC/README.md)：基于docker的开发环境部署帮助文档；
 * [NaiveMIPS SoC源代码 / brd-NSCSCC分支](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/tree/brd-NSCSCC): ([NaiveMIPS SoC源代码在github上的备份](https://github.com/z4yx/NaiveMIPS-HDL))
   * [NaiveMIPS软硬件设计文档](https://git.net9.org/zhangyx13/NaiveMIPS-HDL/raw/brd-NSCSCC/documentation/2017nscscc.pdf)：([github上的副本](https://github.com/z4yx/NaiveMIPS-HDL/blob/brd-NSCSCC/documentation/2017nscscc.pdf))包含硬件实现及系统软件说明
 * [Test cases for MIPS CPU implementation](https://github.com/oscourse-tsinghua/cpu-testcase/blob/master/README.md)
